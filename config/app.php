@@ -101,7 +101,7 @@ return [
     |
     */
 
-    'locale' => 'en_US',
+    'locale' => 'pt_BR',
 
     'locales' => [
         // 'cn_' => '简体中文 (Simplified Chinese)',
@@ -146,7 +146,7 @@ return [
     |
     */
 
-    'fallback_locale' => 'en_US',
+    'fallback_locale' => 'pt_BR',
 
     /*
     |--------------------------------------------------------------------------
